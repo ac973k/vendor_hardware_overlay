@@ -23,6 +23,7 @@ PRODUCT_PACKAGES += \
 	treble-overlay-bq-jeice \
 	treble-overlay-caf-ims \
 	treble-overlay-devinputjack \
+	treble-overlay-doogee-vmax \
 	treble-overlay-duoqin-qin2pro \
 	treble-overlay-duoqin-qin3ultra \
 	treble-overlay-duoqin-qin3ultra-systemui \
@@ -347,6 +348,8 @@ PRODUCT_PACKAGES += \
 	treble-overlay-wifi5g \
 	treble-overlay-xiaomi-civi \
 	treble-overlay-xiaomi-civi-systemui \
+	treble-overlay-xiaomi-civi4pro \
+	treble-overlay-xiaomi-civi4pro-systemui \
 	treble-overlay-xiaomi-mi11lite5g \
 	treble-overlay-xiaomi-mi11lite5g-systemui \
 	treble-overlay-xiaomi-mi11tpro \
