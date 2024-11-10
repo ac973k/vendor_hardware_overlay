@@ -66,6 +66,7 @@ PRODUCT_PACKAGES += \
 	treble-overlay-infinix-note30-systemui \
 	treble-overlay-infinix-note30pro \
 	treble-overlay-infinix-note30pro-systemui \
+	treble-overlay-infinix-note40pro \
 	treble-overlay-infinix-note5 \
 	treble-overlay-infinix-note7 \
 	treble-overlay-infinix-note8 \
@@ -95,6 +96,8 @@ PRODUCT_PACKAGES += \
 	treble-overlay-mbi-s10-systemui \
 	treble-overlay-meizu-m2181 \
 	treble-overlay-meizu-m2181-systemui \
+	treble-overlay-meizu-m2461 \
+	treble-overlay-meizu-m2461-systemui \
 	treble-overlay-misc-aod \
 	treble-overlay-misc-aod-systemui \
 	treble-overlay-misc-dt2w \
@@ -163,6 +166,8 @@ PRODUCT_PACKAGES += \
 	treble-overlay-oneplus-n200-systemui \
 	treble-overlay-oneplus-nord \
 	treble-overlay-oneplus-nord-systemui \
+	treble-overlay-oneplus-nord4 \
+	treble-overlay-oneplus-nord4-systemui \
 	treble-overlay-oneplus-nordce \
 	treble-overlay-oneplus-nordce-systemui \
 	treble-overlay-oneplus-op10pro \
@@ -247,6 +252,8 @@ PRODUCT_PACKAGES += \
 	treble-overlay-samsung-a52 \
 	treble-overlay-samsung-a53 \
 	treble-overlay-samsung-a53-systemui \
+	treble-overlay-samsung-a54x \
+	treble-overlay-samsung-a54x-systemui \
 	treble-overlay-samsung-a60q \
 	treble-overlay-samsung-a7 \
 	treble-overlay-samsung-a70 \
@@ -308,6 +315,7 @@ PRODUCT_PACKAGES += \
 	treble-overlay-teclast-p20hd \
 	treble-overlay-teclast-t30 \
 	treble-overlay-tecno-camon11 \
+	treble-overlay-tecno-camon18p \
 	treble-overlay-tecno-camon20pro4g \
 	treble-overlay-tecno-camon20pro4g-systemui \
 	treble-overlay-tecno-pova4 \
